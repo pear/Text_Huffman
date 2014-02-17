@@ -8,7 +8,7 @@
     ],
     "autoload": {
         "psr-0": {
-            "Text_Huffman": "./"
+            "Text": "./"
         }
     },
     "description": "More info available on: http://pear.php.net/package/Text_Huffman",
