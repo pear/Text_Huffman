@@ -1,0 +1,28 @@
+{
+    "authors": [
+        {
+            "email": "mnix@docuverse.de",
+            "name": "Markus Nix",
+            "role": "Lead"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "Text": "./"
+        }
+    },
+    "description": "More info available on: http://pear.php.net/package/Text_Huffman",
+    "include-path": [
+        "./"
+    ],
+    "license": "LGPL",
+    "name": "pear/text_huffman",
+    "support": {
+        "issues": "http:///bugs/search.php?cmd=display&package_name[]=Text_Huffman",
+        "source": "https://github.com/pear/Text_Huffman"
+    },
+    "type": "library",
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    }
+}
